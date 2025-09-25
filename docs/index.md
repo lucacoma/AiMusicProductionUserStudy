@@ -6,6 +6,20 @@ Text-to-music models have revolutionized the creative landscape, offering new po
 
 
 ## User 251415
+
 <video width="640" height="480" controls loop="" autoplay="">
 <source src="https://github.com/lucacoma/AiMusicProductionUserStudy/raw/refs/heads/main/docs/media/12)%20%23ID_251415/interaction_example_video_251415_excerpt_1.mp4">
 </video>
+
+<video width="640" height="480" controls loop="" autoplay="">
+<source src="https://github.com/lucacoma/AiMusicProductionUserStudy/raw/refs/heads/main/docs/media/12)%20%23ID_251415/interaction_example_video_251415_excerpt_1.mp4">
+</video>
+
+### Text-to-music created loops
+<audio controls style="width: 100px;"><source src="https://github.com/lucacoma/AiMusicProductionUserStudy/raw/refs/heads/main/docs/media/12)%20%23ID_251415/musicgen_created_loops_251415/bass_drum_3.wav" type="audio/mpeg"></audio>
+
+<audio controls style="width: 100px;"><source src="https://github.com/lucacoma/AiMusicProductionUserStudy/raw/refs/heads/main/docs/media/12)%20%23ID_251415/musicgen_created_loops_251415/piano_take1.wav" type="audio/mpeg"></audio>
+
+### Final Track
+
+<audio controls style="width: 100px;"><source src="https://github.com/lucacoma/AiMusicProductionUserStudy/raw/refs/heads/main/docs/media/12)%20%23ID_251415/final_audio_track_251415.mp3" type="audio/mpeg"></audio>
