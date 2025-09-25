@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
-title: AI-Assisted Music Production: A User Study on Text-to-Music Models
+title: 
 description:
 show_downloads: True
 colors:
     gradient_left: "#33D7FF"
     gradient_right: "#33CAFF"
+
+markdown: GFM
