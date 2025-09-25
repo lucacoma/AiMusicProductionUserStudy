@@ -3,3 +3,5 @@ Text-to-music models have revolutionized the creative landscape, offering new po
 
 
 ![Experiment Workflow](/docs/images/exp_workflow_bigger.png)
+
+![Prova](https://github.com/lucacoma/AiMusicProductionUserStudy/blob/main/docs/images/exp_workflow_bigger.png)
