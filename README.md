@@ -27,7 +27,7 @@ This README contains brief notes related to the supplementary material of the _A
 
 ## Install & Usage
 `interface_code_ai_music_production.py` contains the python code for executing interface.
-Can be run by simply typing python interface_code_ai_music_production.py on a terminal and then connecting via browser on the port specified by the model.
+Can be run by simply typing `python interface_code_ai_music_production.py` on a terminal and then connecting via browser on the port specified by the model.
 Requires the installation of [audiocraft](https://github.com/facebookresearch/audiocraft) library, since the interface generates music using MusicGen and [demucs](https://github.com/facebookresearch/demucs) for source separation.
 
 
