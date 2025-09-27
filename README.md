@@ -27,7 +27,7 @@ Text-to-music models have revolutionized the creative landscape, offering new po
 This README contains brief notes related to the supplementary material of the _AI-Assisted Music Production: A User Study on Text-to- Music Models_ paper. 
 
 ## Install & Usage
-_interface_code_ai_music_production.py_ contains the python code for executing interface.
+`interface_code_ai_music_production.py` contains the python code for executing interface.
 Can be run by simply typing python interface_code_ai_music_production.py on a terminal and then connecting via browser on the port specified by the model.
 Requires the installation of [audiocraft](https://github.com/facebookresearch/audiocraft) library, since the interface generates music using MusicGen and [demucs](https://github.com/facebookresearch/demucs) for source separation.
 
