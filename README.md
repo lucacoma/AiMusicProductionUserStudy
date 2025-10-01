@@ -4,13 +4,13 @@
 
 <!-- <img width="700px" src="docs/new-generic-style-transfer-headline.svg"> -->
  
-[Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/)<sup>1</sup>, [Luca Comanducci](https://www.linkedin.com/in/lucacomanducci/)<sup>1</sup>, [Simone Marcucci]() and [Fabio Antonacci](https://www.deib.polimi.it/ita/personale/dettagli/573870)<sup>1</sup>
+[Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/), [Luca Comanducci](https://www.linkedin.com/in/lucacomanducci/), [Simone Marcucci]() and [Fabio Antonacci](https://www.deib.polimi.it/ita/personale/dettagli/573870)
 
-<sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
+Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
 Paper accepted @ 17th International Symposium on
 Computer Music Multidisciplinary Research (CMMR25)
     
-[![arXiv](https://img.shields.io/badge/arXiv-2403.17864-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17864-b31b1b.svg)](https://www.arxiv.org/abs/2509.23364)
 
 </div>
 
