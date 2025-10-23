@@ -298,4 +298,4 @@ dependencies:
       - wrapt==1.17.2
       - xformers==0.0.22.post7
       - zipp==3.21.0
-prefix: /nas/home/lcomanducci/miniconda3/envs/demoopenday
+prefix: <add prefix/path>
