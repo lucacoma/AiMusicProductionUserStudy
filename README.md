@@ -27,7 +27,13 @@ This README contains brief notes related to the supplementary material of the _A
 
 ## Install & Usage
 `interface_code_ai_music_production.py` contains the python code for executing interface.
-Can be run by simply typing 
+
+Before running the code, make sure to install the proper environment, running the following command: 
+```
+conda env create -f env_demo.yaml
+```
+
+Once the environment is correctly installed, the demo can be run by simply typing 
 ```
 python interface_code_ai_music_production.py
 ```
