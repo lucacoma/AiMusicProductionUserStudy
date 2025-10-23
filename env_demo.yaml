@@ -1,4 +1,4 @@
-name: demoopenday
+name: AI_mus_pro_demo
 channels:
   - defaults
   - conda-forge
